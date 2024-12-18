@@ -7,7 +7,7 @@ Starting out in Cybersecurity, HackTheBox (HTB) has been the go-to resource prov
 1. [Explore - Android (Easy)](Explore/Readme.md)
 2. [Lame - Linux (Easy)](Lame/Readme.md)
 3. [Shocker - Linux (Easy)](Shocker/Readme.md)
-4. [Nibbles - Linux (Easy)](Nibbles/Readme.com)
+4. [Nibbles - Linux (Easy)](Nibbles/Readme.md)
 5. [Bashed - Linux (Easy)](Bashed/Readme.md)
 6. [Valentine - Linux (Easy)](Valentine/Readme.md)
 7. [Beep - Linux (Easy)](Beep/Readme.md)
